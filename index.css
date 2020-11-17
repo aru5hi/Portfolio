@@ -94,7 +94,7 @@ body {
   bottom: 5rem;
   font-size: 1.5rem;
   font-weight: inherit;
-  padding: 0.5rem 0.7rem;
+  padding: 10px 14px;;
   color: inherit;
   background-color: transparent;
   border: 2px solid white;
@@ -111,6 +111,7 @@ body {
 
 .nav {
   position: sticky;
+  width: 100%;
   top:0;
   margin: 0;
   padding: 0;
