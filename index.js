@@ -23,7 +23,7 @@ document.getElementById('top').addEventListener('click', function(event){
 });
 
 function resumeRedirect(){
-  window.open("https://drive.google.com/file/d/1xcl36CgCZfuDgLWt6_dzA04BM2rBdPzD/view", '_blank');
+  window.open("https://drive.google.com/file/d/1H3EqZhtbTJjo-j9WXO5aPtFxAk8tDGU1/view?usp=sharing", '_blank');
 }
 
 (function() {
