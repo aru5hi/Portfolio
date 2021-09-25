@@ -48,8 +48,8 @@ function resumeRedirect(){
           document.getElementsByClassName("progress-value")[0].classList.add('progress-value-90');
           document.getElementsByClassName("progress-value")[1].classList.add('progress-value-90');
           document.getElementsByClassName("progress-value")[2].classList.add('progress-value-80');
-          document.getElementsByClassName("progress-value")[3].classList.add('progress-value-70');
-          document.getElementsByClassName("progress-value")[4].classList.add('progress-value-60');
+          document.getElementsByClassName("progress-value")[3].classList.add('progress-value-80');
+          document.getElementsByClassName("progress-value")[4].classList.add('progress-value-70');
           document.getElementsByClassName("progress-value")[5].classList.add('progress-value-60');
           document.getElementsByClassName("progress-value")[6].classList.add('progress-value-70');
           document.getElementsByClassName("progress-value")[7].classList.add('progress-value-60');
