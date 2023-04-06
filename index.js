@@ -23,7 +23,7 @@ document.getElementById('top').addEventListener('click', function(event){
 });
 
 function resumeRedirect(){
-  window.open("https://drive.google.com/file/d/1-PS3jMn4zYBBnF8t53ldKRMSw7F_vkwc/view?usp=sharing", '_blank');
+  window.open("https://linkedin.com/in/arushi-mishra-220082176", '_blank');
 }
 
 (function() {
